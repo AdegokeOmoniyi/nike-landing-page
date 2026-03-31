@@ -1,2 +1,2 @@
 # nike-landing-page
-A Nike landing page built with HTML, CSS, and JAVASCRIPT
+A Nike landing page built with HTML and CSS
